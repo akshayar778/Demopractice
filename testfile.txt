@@ -4,4 +4,6 @@ location / {
             } # end location
         } # end server
     } # end http
+addition path 1
 
+addition path 2
